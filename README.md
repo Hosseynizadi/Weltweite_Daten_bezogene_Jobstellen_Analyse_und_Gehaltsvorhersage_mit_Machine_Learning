@@ -14,7 +14,7 @@ Dafür wurden Web Scraping, Machine Learning und eine interaktive Web-App kombin
 # <img width="806" alt="Screenshot 2025-03-19 121516" src="https://github.com/user-attachments/assets/03bf6ffc-84a5-4c8d-b459-527948d05de1" />
 
 # 🛠 Technologien & Tools
-chnologien & Tools
+Technologien & Tools
 🔹 Python (Pandas, NumPy, Scikit-Learn, BeautifulSoup, Requests)
 🔹 Web Scraping mit Adzuna API
 🔹 Machine Learning (Lineare Regression, Random Forest, XGBoost)
